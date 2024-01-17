@@ -7,15 +7,7 @@ class Home extends Controller {
     }
 
     public function index() {
-        $data = $this->model_home->getList();
-        echo '<pre>';
-        print_r($data);
-        echo '</pre>';
-
-        $detail = $this->model_home->getDetail(0);
-        echo '<pre>';
-        print_r($detail);
-        echo '</pre>';
+        $this->render('layouts/app_layout');
     }
 
 }

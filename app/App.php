@@ -3,7 +3,7 @@
 class App {
     private $__controller, $__action, $__params, $__routes;
     public function __construct() {
-        global $routes;
+        global $routes, $config;
 
         $this->__routes = new Route();
 
@@ -15,6 +15,7 @@ class App {
         $this->__params = [];
 
         $this->handleUrl();
+
     }
 
     /**
@@ -68,6 +69,13 @@ class App {
         else:
             $this->__controller = ucfirst( $this->__controller);
         endif;
+
+        /**
+         * Xử lý khi $urlCheck rỗng
+         */
+        if( empty( $urlCheck) ) {
+            $urlCheck = $this->__controller;
+        }
 
         $controllerFilePath = 'app/controllers/' . $urlCheck . '.php';
         if( file_exists( $controllerFilePath )) :
