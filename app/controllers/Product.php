@@ -6,13 +6,17 @@ class Product extends Controller {
         $dataProduct = $product->getProductLists();
 
         $title = 'Danh sách sản phẩm';
-        $this->data['product_list'] = $dataProduct;
-        $this->data['page_title'] = $title;
+        $this->data['sub_content']['product_list'] = $dataProduct;
+        $this->data['sub_content']['product_title'] = $title;
+        $this->data['page_title'] = 'Sản phẩm';
+        $this->data['content'] = 'products/list';
         // Render view
-        $this->render('products/list', $this->data);
+        $this->render('layouts/app_layout', $this->data);
     }
 
-    public function detail(): void {
+    public function detail( $id = 0): void {
+        $product = $this->model('ProductModel');
+        $this->data['info'] = $product->
         $this->render('products/detail');
     }
 }
