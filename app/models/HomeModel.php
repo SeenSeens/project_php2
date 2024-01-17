@@ -19,3 +19,4 @@ class HomeModel {
         return $data[$id];
     }
 }
+?>

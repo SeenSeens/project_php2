@@ -1,6 +1,9 @@
 <?php
 class Product extends Controller {
     public array $data = [];
+    public function index() {
+        echo 'A';
+    }
     public function list_product(): void {
         $product = $this->model('ProductModel');
         $dataProduct = $product->getProductLists();
@@ -20,3 +23,4 @@ class Product extends Controller {
         $this->render('products/detail');
     }
 }
+?>
