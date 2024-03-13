@@ -2,9 +2,10 @@
 
 class App {
     private $__controller, $__action, $__params, $__routes;
+    static public $app;
     public function __construct() {
         global $routes, $config;
-
+        self::$app = $this;
         $this->__routes = new Route();
 
         if( !empty( $routes['default_controller'] )) :
@@ -51,7 +52,7 @@ class App {
                     unset( $urlArr[ $key - 1]);
                 }
 
-                $checkFilePath = 'app/controllers/' . $fileCheck . '.php';
+                $checkFilePath = 'app/Controllers/' . $fileCheck . '.php';
                 if ( file_exists( $checkFilePath )) {
                     $urlCheck = $fileCheck;
                     break;
@@ -77,7 +78,7 @@ class App {
             $urlCheck = $this->__controller;
         }
 
-        $controllerFilePath = 'app/controllers/' . $urlCheck . '.php';
+        $controllerFilePath = 'app/Controllers/' . $urlCheck . '.php';
         if( file_exists( $controllerFilePath )) :
             require_once $controllerFilePath;
             // Kiểm tra class $this->__controller tồn tại
@@ -110,7 +111,8 @@ class App {
         endif;
     }
 
-    private function loadError( $name = '404' ) {
+    public function loadError($name = '404', $data = [] ) {
+        extract( $data );
         require_once 'Errors/' . $name . '.php';
     }
 }

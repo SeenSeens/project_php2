@@ -26,15 +26,15 @@ if( !empty( $configs_dir )) {
 require_once 'core/Route.php'; // Load Route class
 require_once 'app/App.php'; // Load App
 
-// Kiểm tra config và load dâtabase
+// Kiểm tra config và load database
 if( !empty( $config['database']) ) {
     $db_config = array_filter( $config['database']);
-    var_dump($db_config);
-    if( !empty( $db_config) ) {
+    if( !empty( $db_config ) ) {
         require_once 'core/Connection.php';
+        require_once 'core/QueryBuilder.php';
         require_once 'core/Database.php';
-        $db = new Database();
     }
 }
+require_once 'core/Model.php'; // Load Base Model
 require_once 'core/Controller.php'; // Load base controller
 ?>

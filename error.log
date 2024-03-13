@@ -1,0 +1,804 @@
+2024/03/12 14:57:33 [error] 17920#17920: *346 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined array key "pass" in /opt/lampp/htdocs/projectphp2/core/Connection.php on line 7" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 14:58:12 [error] 17920#17920: *346 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined array key "pass" in /opt/lampp/htdocs/projectphp2/core/Connection.php on line 7" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 14:58:13 [error] 17920#17920: *346 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined array key "pass" in /opt/lampp/htdocs/projectphp2/core/Connection.php on line 7" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 14:58:13 [error] 17920#17920: *346 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined array key "pass" in /opt/lampp/htdocs/projectphp2/core/Connection.php on line 7" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 14:59:12 [error] 17920#17920: *346 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined array key "pass" in /opt/lampp/htdocs/projectphp2/core/Connection.php on line 7" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 14:59:13 [error] 17920#17920: *346 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined array key "pass" in /opt/lampp/htdocs/projectphp2/core/Connection.php on line 7" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 14:59:27 [error] 17920#17920: *346 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined array key "pass" in /opt/lampp/htdocs/projectphp2/core/Connection.php on line 7" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 14:59:27 [error] 17920#17920: *346 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined array key "pass" in /opt/lampp/htdocs/projectphp2/core/Connection.php on line 7" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 14:59:57 [error] 17920#17920: *346 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined array key "pass" in /opt/lampp/htdocs/projectphp2/core/Connection.php on line 7" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 15:00:59 [error] 17920#17920: *346 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined array key "pass" in /opt/lampp/htdocs/projectphp2/core/Connection.php on line 7" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 15:00:59 [error] 17920#17920: *346 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined array key "pass" in /opt/lampp/htdocs/projectphp2/core/Connection.php on line 7" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 16:23:35 [error] 17920#17920: *391 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined array key "pass" in /opt/lampp/htdocs/projectphp2/core/Connection.php on line 7" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 18:52:59 [error] 17920#17920: *599 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:28:42 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:29:01 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:29:15 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:29:46 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:29:47 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:30:04 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected token ";" in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:30:05 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected token ";" in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:30:06 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected token ";" in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:30:22 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:30:32 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:30:33 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:30:46 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:30:47 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:30:48 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:30:55 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:30:56 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:31:49 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/12 19:32:03 [error] 17920#17920: *602 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:32:20 [error] 925#925: *13 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:32:23 [error] 925#925: *13 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:32:38 [error] 925#925: *13 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:32:49 [error] 925#925: *20 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:32:58 [error] 925#925: *20 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:33:19 [error] 925#925: *20 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:33:20 [error] 925#925: *20 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:33:21 [error] 925#925: *20 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:33:44 [error] 925#925: *20 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(14): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->get()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:33:45 [error] 925#925: *20 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(14): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->get()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:33:52 [error] 925#925: *20 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(14): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->get()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:34:05 [error] 925#925: *20 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:50:07 [error] 925#925: *32 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:50:08 [error] 925#925: *32 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:53:21 [error] 925#925: *36 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:53:50 [error] 925#925: *36 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Connection in /opt/lampp/htdocs/projectphp2/core/Connection.php:11
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Connection.php(18): Connection->__construct()
+#1 /opt/lampp/htdocs/projectphp2/core/Database.php(8): Connection::getInstance()
+#2 /opt/lampp/htdocs/projectphp2/core/Controller.php(7): Database->__construct()
+#3 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(7): Controller->model()
+#4 /opt/lampp/htdocs/projectphp2/app/App.php(86): Home->__construct()
+#5 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#6 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#7 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Connection.php on line 11" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:53:58 [error] 925#925: *36 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Connection in /opt/lampp/htdocs/projectphp2/core/Connection.php:11
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Connection.php(18): Connection->__construct()
+#1 /opt/lampp/htdocs/projectphp2/core/Database.php(8): Connection::getInstance()
+#2 /opt/lampp/htdocs/projectphp2/core/Controller.php(7): Database->__construct()
+#3 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(7): Controller->model()
+#4 /opt/lampp/htdocs/projectphp2/app/App.php(86): Home->__construct()
+#5 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#6 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#7 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Connection.php on line 11" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 01:54:14 [error] 925#925: *36 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:04:53 [error] 925#925: *42 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:04:54 [error] 925#925: *42 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:05:11 [error] 925#925: *42 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Cannot access protected property HomeModel::$db in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:05:36 [error] 925#925: *42 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined property: Home::$product in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12PHP message: PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:05:37 [error] 925#925: *42 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined property: Home::$product in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12PHP message: PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:05:37 [error] 925#925: *42 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined property: Home::$product in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12PHP message: PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:06:15 [error] 925#925: *42 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:11:02 [error] 925#925: *52 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:11:03 [error] 925#925: *52 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:12:10 [error] 925#925: *52 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:13:23 [error] 925#925: *52 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:13:24 [error] 925#925: *52 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:14:17 [error] 925#925: *52 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:14:18 [error] 925#925: *52 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:14:18 [error] 925#925: *52 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:16:54 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:16:55 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:17:10 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:17:11 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:17:14 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:17:17 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:17:18 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:17:18 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:17:19 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:17:19 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:17:19 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:17:19 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:17:19 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:17:19 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:17:20 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /product/list_product HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:17:24 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:17:40 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:18:00 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Warning:  Undefined property: HomeModel::$fieldFill in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 12PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:18:01 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Warning:  Undefined property: HomeModel::$fieldFill in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 12PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:18:06 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Warning:  Undefined property: HomeModel::$fieldFill in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 12PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:18:06 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Warning:  Undefined property: HomeModel::$fieldFill in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 12PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:18:20 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:18:21 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:18:27 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:18:27 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:18:46 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:18:46 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:19:01 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:19:02 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:19:37 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Warning:  Undefined property: HomeModel::$fieldFill in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 12PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:19:38 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Warning:  Undefined property: HomeModel::$fieldFill in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 12PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:19:43 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:19:44 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:19:44 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:19:44 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:19:51 [error] 925#925: *81 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:21:20 [error] 925#925: *121 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Warning:  Undefined property: HomeModel::$fieldFill in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:21:21 [error] 925#925: *121 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Warning:  Undefined property: HomeModel::$fieldFill in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:21:21 [error] 925#925: *121 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Warning:  Undefined property: HomeModel::$fieldFill in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:21:31 [error] 925#925: *121 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:21:32 [error] 925#925: *121 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:21:32 [error] 925#925: *121 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:21:52 [error] 925#925: *121 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:21:52 [error] 925#925: *121 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:21:53 [error] 925#925: *121 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:22:41 [error] 925#925: *121 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:22:42 [error] 925#925: *121 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:44:37 [error] 925#925: *137 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:45:30 [error] 925#925: *137 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:45:30 [error] 925#925: *137 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:45:30 [error] 925#925: *137 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:45:39 [error] 925#925: *137 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(18): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->get()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:45:40 [error] 925#925: *137 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(18): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->get()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:47:43 [error] 925#925: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:48:06 [error] 925#925: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:48:07 [error] 925#925: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php(12): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(20): HomeModel->getList()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:48:23 [error] 925#925: *146 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected token "*" in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:48:36 [error] 925#925: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:48:37 [error] 925#925: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:48:44 [error] 925#925: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:48:45 [error] 925#925: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:49:29 [error] 925#925: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:49:29 [error] 925#925: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:49:30 [error] 925#925: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  Undefined variable $product_title in /opt/lampp/htdocs/projectphp2/app/Views/products/list.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:58:02 [error] 925#925: *160 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(32): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->first()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 02:58:04 [error] 925#925: *160 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(32): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->first()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 03:01:03 [error] 925#925: *166 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(32): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->first()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 03:01:04 [error] 925#925: *166 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(32): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->first()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:46:31 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(34): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->first()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:46:32 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(34): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->first()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:15 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Non-static method Model::first() cannot be called statically in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:16 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Non-static method Model::first() cannot be called statically in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:16 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Non-static method Model::first() cannot be called statically in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:17 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Non-static method Model::first() cannot be called statically in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:17 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Non-static method Model::first() cannot be called statically in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:17 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Non-static method Model::first() cannot be called statically in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:17 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Non-static method Model::first() cannot be called statically in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:17 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Non-static method Model::first() cannot be called statically in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:21 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(34): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->first()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:22 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(34): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->first()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:22 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(34): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->first()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:22 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(34): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->first()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:22 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(34): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->first()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:29 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Cannot access protected property HomeModel::$db in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:30 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Cannot access protected property HomeModel::$db in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:36 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Cannot access protected property HomeModel::$db in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:36 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Cannot access protected property HomeModel::$db in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:36 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Cannot access protected property HomeModel::$db in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:36 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Cannot access protected property HomeModel::$db in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:37 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Cannot access protected property HomeModel::$db in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:42 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Cannot access protected property HomeModel::$db in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:42 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Cannot access protected property HomeModel::$db in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:47:42 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Cannot access protected property HomeModel::$db in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#2 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#3 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:48:19 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(34): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->first()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:48:20 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(34): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->first()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 13:48:20 [error] 943#943: *123 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to private method App::loadError() from scope Database in /opt/lampp/htdocs/projectphp2/core/Database.php:81
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/core/Model.php(34): Database->query()
+#1 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(12): Model->first()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#3 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#4 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#5 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/core/Database.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 14:09:18 [error] 943#943: *208 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Trait "QueryBuilder" not found in /opt/lampp/htdocs/projectphp2/core/Database.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET /home HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 14:19:55 [error] 943#943: *226 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function where() on string in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php:16
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(25): HomeModel->getListProducts()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#3 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#4 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 16" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 14:19:56 [error] 943#943: *226 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function where() on string in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php:16
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(25): HomeModel->getListProducts()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#3 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#4 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 16" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 14:20:03 [error] 943#943: *226 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function where() on string in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php:16
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(25): HomeModel->getListProducts()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#3 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#4 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 16" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 14:33:16 [error] 943#943: *272 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined method Database::get() in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php:19
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(25): HomeModel->getListProducts()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#3 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#4 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 19" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 14:33:16 [error] 943#943: *272 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined method Database::get() in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php:19
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(25): HomeModel->getListProducts()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#3 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#4 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 19" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 14:34:25 [error] 943#943: *272 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined method Database::get() in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php:19
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(25): HomeModel->getListProducts()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#3 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#4 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 19" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 15:04:52 [error] 943#943: *295 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected token "}" in /opt/lampp/htdocs/projectphp2/core/QueryBuilder.php on line 27" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 15:05:04 [error] 943#943: *295 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected token "}" in /opt/lampp/htdocs/projectphp2/core/QueryBuilder.php on line 27" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 15:05:05 [error] 943#943: *295 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected token "}" in /opt/lampp/htdocs/projectphp2/core/QueryBuilder.php on line 27" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 15:08:03 [error] 943#943: *311 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php:20
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(25): HomeModel->getListProducts()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#3 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#4 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 20" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 15:33:54 [error] 943#943: *316 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php:20
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(25): HomeModel->getListProducts()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#3 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#4 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 20" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 15:33:55 [error] 943#943: *316 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php:20
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(25): HomeModel->getListProducts()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#3 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#4 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 20" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 21:19:06 [error] 943#943: *416 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeModel::getDetailProduct(), 0 passed in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 25 and exactly 1 expected in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php:23
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(25): HomeModel->getDetailProduct()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#3 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#4 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 23" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"
+2024/03/13 21:19:06 [error] 943#943: *416 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeModel::getDetailProduct(), 0 passed in /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php on line 25 and exactly 1 expected in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php:23
+Stack trace:
+#0 /opt/lampp/htdocs/projectphp2/app/Controllers/Home.php(25): HomeModel->getDetailProduct()
+#1 /opt/lampp/htdocs/projectphp2/app/App.php(108): Home->index()
+#2 /opt/lampp/htdocs/projectphp2/app/App.php(18): App->handleUrl()
+#3 /opt/lampp/htdocs/projectphp2/index.php(5): App->__construct()
+#4 {main}
+  thrown in /opt/lampp/htdocs/projectphp2/app/Models/HomeModel.php on line 23" while reading response header from upstream, client: 127.0.0.1, server: projectphp2.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "projectphp2.local"

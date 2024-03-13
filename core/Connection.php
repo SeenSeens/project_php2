@@ -1,23 +1,21 @@
 <?php
-#[AllowDynamicProperties]
 class Connection {
     private static $instance = null;
-    private $connection = null;
-
-    private function __construct($config) {
+    private $connection;
+    public function __construct( $config ) {
         try {
-            $con = new PDO("mysql:host=" . $config['host'] . ";dbname=" . $config['db'], $config['user'], $config['pass']);
-            $this->connection = $con;
+            $this->connection = new PDO("mysql:host=" . $config['host'] . ";dbname=" . $config['db'], $config['user'], $config['pass']);
             $this->connection->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-            echo 'Connected';
         } catch (PDOException $e) {
+            $mess = $e->getMessage();
+            App::$app->loadError( 'database', [ 'message' => $mess ] );
             die("Connection failed: " . $e->getMessage());
         }
     }
 
-    public static function getInstance($config) {
+   public static function getInstance( $config ) {
         if (!self::$instance) {
-            $connection = new Connection($config);
+            $connection = new Connection( $config );
             self::$instance = $connection->getConnection();
         }
         return self::$instance;
@@ -31,6 +29,7 @@ class Connection {
     public function closeConnection() {
         $this->connection = null;
     }
+
 }
 
 ?>
