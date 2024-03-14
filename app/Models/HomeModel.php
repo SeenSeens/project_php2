@@ -36,10 +36,13 @@ class HomeModel extends Model {
         return $data;
     }
     public function insertCategories($data){
-//        $this->db->table('categories')->insert($data);
+        $this->db->table('categories')->insert($data);
+        return $this->db->lastId();
     }
-    public function updateCategories($data, $id){
-        $this->db->table('categories')->where('id', '=', $id)->update($data);
+    public function deleteCategories($id){
+        $this->db->table('categories')
+            ->where('id', '=', $id)
+            ->delete();
     }
 }
 ?>

@@ -36,19 +36,25 @@ class Home extends Controller {
 //        print_r( $data );
 //        echo '</pre>';
 
-/*        $iData = [
+        $iData = [
             'name' => 'Trần Vân Anh',
             'slug' => 'tran-van-anh',
             'description' => 'Ab facere maxime nostrum dolores.',
             'created_at' => date('Y-m-d H:i:s'),
             'updated_at	' => date('Y-m-d H:i:s'),
         ];
-        $this->products->insertCategories($iData);*/
-
-        $uData = [
-            'name' => 'Trần Vân Anh',
-        ];
-        $this->products->updateCategories($uData, 3);
+        $check = $this->db->table('types')->insert($iData);
+        var_dump($check);
+//        $id = $this->products->insertCategories($iData);
+//        echo $id;
+//        $uData = [
+//            'name' => 'Trần Vân Anh',
+//        ];
+//        $this->products->deleteCategories(43);
+        $data = $this->db->table('types')->get();
+        echo '<pre>';
+        print_r( $data );
+        echo '</pre>';
     }
 
 }

@@ -87,6 +87,10 @@ trait QueryBuilder{
         $insertStatus = $this->insertData($tableName, $data);
         return $insertStatus;
     }
+    // LastId
+    public function lastId(){
+        return $this->lastInsertId();
+    }
     // Update
     public function update($data){
         $whereUpdate = str_replace('WHERE', '', $this->where);
@@ -94,6 +98,14 @@ trait QueryBuilder{
         $tableName = $this->tableName;
         $statusUpdate = $this->updateData($tableName, $data, $whereUpdate);
         return $statusUpdate;
+    }
+    // Delete
+    public function delete(){
+        $whereDelete = str_replace('WHERE', '', $this->where);
+        $whereDelete = trim($whereDelete);
+        $tableName = $this->tableName;
+        $statusDelete = $this->deleteData($tableName, $whereDelete);
+        return $statusDelete;
     }
     public function first(){
         $sqlQuery = "SELECT $this->selectField FROM $this->tableName $this->where $this->limit";
