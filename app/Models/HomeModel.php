@@ -16,10 +16,16 @@ class HomeModel extends Model {
         return $data;
     }
     public function getListProducts() {
-        $data = $this->db->table('products')
-//            ->where('id', '>', 3)
-            ->whereLike('title', '%Textile Platform Sneakers%')
-//            ->select('title')
+        /*$data = $this->db->table('products')
+//            ->where('id', '>', 1)
+//                ->select('*')
+            ->limit(3, 2)
+            ->orderBy('id', 'DESC')
+            ->get();*/
+//        return $data;
+        $data = $this->db->table('products as p')
+            ->join('categories as c', 'p.category_id = c.id')
+            ->join('types as t', 'p.type_id = t.id')
             ->get();
         return $data;
     }
@@ -28,6 +34,12 @@ class HomeModel extends Model {
             ->where('title', '=', $title)
             ->first();
         return $data;
+    }
+    public function insertCategories($data){
+//        $this->db->table('categories')->insert($data);
+    }
+    public function updateCategories($data, $id){
+        $this->db->table('categories')->where('id', '=', $id)->update($data);
     }
 }
 ?>

@@ -22,20 +22,28 @@ class Home extends Controller {
         print_r( $dataProduct );
         echo '</pre>'; */
 
-        $dataProduct = $this->products->getListProducts();
-        echo '<pre>';
-        print_r( $dataProduct );
-        echo '</pre>';
-        $detail = $this->products->getDetailProduct('Textile Platform Sneakers');
-        echo '<pre>';
-        print_r( $detail );
-        echo '</pre>';
-        echo '<hr>';
-        $data = $this->products->find(1);
-        echo '<pre>';
-        print_r( $data );
-        echo '</pre>';
+//        $dataProduct = $this->products->getListProducts();
+//        echo '<pre>';
+//        print_r( $dataProduct );
+//        echo '</pre>';
+//        $detail = $this->products->getDetailProduct('Textile Platform Sneakers');
+//        echo '<pre>';
+//        print_r( $detail );
+//        echo '</pre>';
+//        echo '<hr>';
+//        $data = $this->products->find(1);
+//        echo '<pre>';
+//        print_r( $data );
+//        echo '</pre>';
 
+        $iData = [
+            'name' => 'Trần Vân Anh',
+            'slug' => 'tran-van-anh',
+            'description' => 'Ab facere maxime nostrum dolores.',
+            'created_at' => date('Y-m-d H:i:s'),
+            'updated_at	' => date('Y-m-d H:i:s'),
+        ];
+        $this->products->insertCategories($iData);
     }
 
 }

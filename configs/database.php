@@ -3,6 +3,6 @@ $config['database'] = [
     'host' => 'localhost',
     'user' => 'root',
     'pass' => '12345678',
-    'db' => 'projectphp2'
+    'db' => 'n7_lavie_n9'
 ];
 ?>

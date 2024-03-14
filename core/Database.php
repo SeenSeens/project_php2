@@ -9,7 +9,7 @@ class Database {
         $this->__conn = Connection::getInstance( $db_config );
     }
 
-    public function insert( $table, $data ) {
+    public function insertData( $table, $data ) {
         if ( !empty($data) ) {
             $fieldStr = '';
             $valueStr = '';
@@ -30,7 +30,7 @@ class Database {
         return false;
     }
 
-    public function update( $table, $data, $condition = '' ) {
+    public function updateData( $table, $data, $condition = '' ) {
         if (!empty($data)) {
             $updateStr = '';
             foreach ($data as $key=>$value) {
@@ -52,7 +52,7 @@ class Database {
         return false;
     }
 
-    public function delete ($table, $condition = '') {
+    public function deleteData($table, $condition = '') {
         if ( !empty($condition) ) {
             $sql = 'DELETE FROM '  . $table . ' WHERE' . $condition;
         } else {

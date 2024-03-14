@@ -4,6 +4,9 @@ trait QueryBuilder{
     public $where = '';
     public $operator = '';
     public $selectField = '*';
+    public $limit = '';
+    public $orderBy = '';
+    public $innerJoin = '';
     public function table( $tableName ){
         $this->tableName = $tableName;
         return $this;
@@ -39,34 +42,78 @@ trait QueryBuilder{
         $this->selectField = $field;
         return $this;
     }
-    public function get(){
-        $sqlQuery = "SELECT $this->selectField FROM $this->tableName $this->where";
-        $query = $this->query($sqlQuery);
+    public function limit($number, $offset = 0){
+        $this->limit = "LIMIT $offset, $number";
+        return $this;
+    }
 
+    /**
+     * ORDER BY id DESC
+     * $this->db->orderBy('id', 'DESC')
+     * $this->db->orderBy('id ASC, name DESC')
+     */
+    public function orderBy($field, $type = 'ASC'){
+        $fieldArr = array_filter( explode(',', $field) );
+        if( !empty($fieldArr) && count($fieldArr) >= 2){
+            // SQL order by multi
+            $this->orderBy = "ORDER BY " . implode(', ', $fieldArr);
+        } else {
+            $this->orderBy = "ORDER BY " . $field . " " . $type;
+        }
+        return $this;
+    }
+    public function get(){
+        $sqlQuery = "SELECT $this->selectField FROM $this->tableName $this->innerJoin $this->where $this->orderBy $this->limit";
+        $sqlQuery = trim($sqlQuery);
+        $query = $this->query($sqlQuery);
+        echo $sqlQuery;
+        echo $this->innerJoin;
         // Reset field
-        $this->tableName = '';
-        $this->where = '';
-        $this->operator = '';
-        $this->selectField = '*';
+        $this->resetQuery();
 
         if (!empty($query)){
             return $query->fetchAll(PDO::FETCH_ASSOC);
         }
         return false;
     }
+    // Inner join
+    public function join($tableName, $relationShip){
+        $this->innerJoin .= " INNER JOIN " . $tableName . " ON " . $relationShip . " ";
+        return $this;
+    }
+    // Insert
+    public function insert($data){
+        $tableName = $this->tableName;
+        $insertStatus = $this->insertData($tableName, $data);
+        return $insertStatus;
+    }
+    // Update
+    public function update($data){
+        $whereUpdate = str_replace('WHERE', '', $this->where);
+        $whereUpdate = trim($whereUpdate);
+        $tableName = $this->tableName;
+        $statusUpdate = $this->updateData($tableName, $data, $whereUpdate);
+        return $statusUpdate;
+    }
     public function first(){
-        $sqlQuery = "SELECT $this->selectField FROM $this->tableName $this->where";
+        $sqlQuery = "SELECT $this->selectField FROM $this->tableName $this->where $this->limit";
         $query = $this->query($sqlQuery);
 
         // Reset field
-        $this->tableName = '';
-        $this->where = '';
-        $this->operator = '';
-        $this->selectField = '*';
+        $this->resetQuery();
 
         if (!empty($query)){
             return $query->fetch(PDO::FETCH_ASSOC);
         }
         return false;
+    }
+    public function resetQuery(){
+        $this->tableName = '';
+        $this->where = '';
+        $this->operator = '';
+        $this->selectField = '*';
+        $this->limit = '';
+        $this->orderBy = '';
+        $this->innerJoin = '';
     }
 }
